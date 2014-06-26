@@ -1,0 +1,52 @@
+body {
+    margin: 0;
+}
+section {
+    border-left: 1em solid #434343;
+    border-right: 1em solid #434343;
+}
+pre code {
+    background-color: inherit;
+}
+.pagination {
+    right: 2.6em;
+}
+.logo {
+    height: 48px;
+    width: auto;
+}
+.chapter-title, .main-title {
+    color: white;
+    border-color: white;
+}
+.chapter-title {
+    background-color: #0071B5;
+}
+/*.main-title {*/
+    /*background-color: #0f35b5;*/
+/*}*/
+.chapter-title strong {
+    font-weight: 800;
+    text-shadow: 0.06em 0.06em 0 #0071B5, 0.07em 0.07em 0 #fff;
+}
+/*.main-title strong {*/
+    /*font-weight: 800;*/
+    /*text-shadow: 0.06em 0.06em 0 #DE0130, 0.07em 0.07em 0 #fff;*/
+/*}*/
+.center {
+    text-align: center;
+}
+.blue, .fa-globe {
+    color: #4099FF;
+}
+
+.prez-title {
+    font-weight: bold;
+}
+.prez-speaker {
+    font-style: italic;
+    font-size: 80%;
+}
+.twitter {
+    color: #1BB2E9;
+}
