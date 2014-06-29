@@ -39,6 +39,12 @@ pre code {
 .blue, .fa-globe {
     color: #4099FF;
 }
+.red {
+    color: red;
+}
+.maroon {
+    color: maroon;
+}
 
 .prez-title {
     font-weight: bold;
